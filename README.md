@@ -92,7 +92,7 @@ To deploy the application on AWS, follow these steps:
 2. Configure your MongoDB instance to allow remote connections (for cloud deployment).
 3. Set up the necessary environment variables for AWS services.
 
-## Project Structure
+## Project Structure(shiuld look like:-)
 
 ```
 LegaEase/
