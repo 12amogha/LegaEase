@@ -95,7 +95,7 @@ To deploy the application on AWS, follow these steps:
 ## Project Structure
 
 ```
-lawyer-recommendation-system/
+LegaEase/
 │
 ├── app/
 │   ├── static/
