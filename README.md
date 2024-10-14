@@ -109,7 +109,7 @@ LegaEase/
 │   ├── recommendation_model.py
 │   ├── chatbot_knn.py
 │   └── ocr.py
-├── app.py
+├── home.py
 ├── requirements.txt
 └── README.md
 ```
