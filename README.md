@@ -3,7 +3,7 @@
 
 # LegaEase
 
-This project is a web-based platform designed to connect clients with lawyers using machine learning for personalized recommendations. The system also provides additional features like document processing, OCR (Optical Character Recognition), a legal document generator, and an interactive chatbot for user support.
+This project is a web-based platform designed to connect clients with lawyers using machine learning for personalized recommendations. The system also provides additional features like document processing, OCR (Optical Character Recognition), a legal document generator, and an interactive chatbot for user support.PHP file were created to see the website designs on local server.
 
 ## Features
 
@@ -36,7 +36,7 @@ To run this project locally, you will need the following:
 
 ```bash
 git clone https://github.com/karishma223/LegaEase.git
-cd lawyer-recommendation-system
+cd LegaEase
 ```
 
 ### 2. Set Up Virtual Environment
