@@ -120,16 +120,11 @@ lawyer-recommendation-system/
 - Improve document generation to support multiple legal document templates.
 - Integrate more advanced machine learning techniques for lawyer recommendations.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 ### Additional Notes:
 
 - Be sure to customize paths, filenames, and package versions to match your specific project setup.
-- Include instructions for deploying on AWS (or similar platforms) if that’s a key part of your project.
+- Deployment on AWS is optional.
 
 --- 
 
