@@ -7,7 +7,7 @@ This project is a web-based platform designed to connect clients with lawyers us
 
 ## Features
 
-- **Lawyer Recommendation System**: Implemented using a Convolutional Neural Network (CNN) algorithm to provide clients with personalized lawyer recommendations based on user preferences and case data.
+- **Lawyer Recommendation System**: Implemented using Content-Based Recommender System to provide clients with personalized lawyer recommendations based on user preferences and case data.
 - **OCR and Document Generator**: Automated document processing with OCR to extract text from images and generate legal documents dynamically.
 - **Chatbot**: Utilizes a K-Nearest Neighbor (KNN) algorithm to provide interactive user support, answering queries and enhancing the user experience.
 - **Database**: Powered by MongoDB to manage dynamic data storage for user information, lawyer details, and legal documents.
@@ -27,7 +27,6 @@ To run this project locally, you will need the following:
 - Python 3.8+
 - Flask
 - MongoDB
-- TensorFlow
 - AWS account (optional for cloud deployment)
 
 ## Installation
